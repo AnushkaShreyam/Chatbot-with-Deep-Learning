@@ -28,6 +28,8 @@
                   },
                   "entityType": "NA",
                   "entities": []
+                  
+                  
             },
             {
                   "intent": "GreetingResponse",
